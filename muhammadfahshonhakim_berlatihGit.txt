@@ -1,3 +1,4 @@
 Nama: Muhammad Fahshon Hakim
 Stack: Backend
 Hobi: Coding
+Deskripsi: Programming itu susah dan menyenangkan
